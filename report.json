@@ -1,0 +1,21 @@
+{
+    "company_name": "ZYLOTECH INDIA PRIVATE LIMITED - Home",
+    "url": "https://zylotechindia.online/",
+    "external_checks": {
+        "domain": "zylotechindia.online",
+        "registrar": "HOSTINGER operations, UAB",
+        "domain_age_days": 104
+    },
+    "findings": [
+        {
+            "element": "Domain",
+            "external_evidence": "Domain age = 104 days",
+            "rule": "Young Domain",
+            "risk_category": "Trust Risk",
+            "severity": "Medium",
+            "rationale": "Recently registered domains have limited operating history."
+        }
+    ],
+    "risk_score": 15,
+    "overall_risk": "LOW"
+}
